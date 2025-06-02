@@ -151,5 +151,13 @@ export const projects = [
     description:
       'A modern 3D product showcase website inspired by Apple, built using React Three Fiber and TailwindCSS. Includes interactive 3D product views, responsive layout, and smooth animations.',
     link: 'https://apple-website-pi-livid.vercel.app/',
+  },
+    {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1077/1077035.png', // Bisa diganti icon yang lebih representatif
+    theme: 'btn-back-green',
+    name: 'E-Commerce Website',
+    description:
+      'A full-featured e-commerce platform built with modern web technologies, supporting product listing, cart, and checkout functionalities.',
+    link: 'https://github.com/ray34-cyber/e-commerce',
   }
 ];
