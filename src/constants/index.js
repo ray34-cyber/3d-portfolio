@@ -145,19 +145,45 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/831/831276.png', // Ganti jika kamu punya icon lokal
-    theme: 'btn-back-silver', // Kamu bisa ubah ke class yang sesuai styling Apple-style
+    theme: 'btn-back-silver',
     name: 'Apple 3D Website',
     description:
       'A modern 3D product showcase website inspired by Apple, built using React Three Fiber and TailwindCSS. Includes interactive 3D product views, responsive layout, and smooth animations.',
     link: 'https://apple-website-pi-livid.vercel.app/',
   },
-    {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1077/1077035.png', // Bisa diganti icon yang lebih representatif
+  {
     theme: 'btn-back-green',
     name: 'E-Commerce Website',
     description:
       'A full-featured e-commerce platform built with modern web technologies, supporting product listing, cart, and checkout functionalities.',
     link: 'https://github.com/ray34-cyber/e-commerce',
-  }
+  },
+  {
+    theme: 'btn-back-blue',
+    name: 'Investment Platform – Frontend',
+    description:
+      'Led the development of a responsive investment dashboard using Nuxt.js, enabling users to monitor portfolios, execute transactions, and access real-time market data.',
+    link: 'https://github.com/ray34-cyber/invest_ui',
+  },
+  {
+    theme: 'btn-back-red',
+    name: 'Investment Platform – API',
+    description:
+      'Built and maintained secure RESTful APIs using Laravel to handle user authentication, transaction processing, and integration with external financial data providers.',
+    link: 'https://github.com/ray34-cyber/invest_api',
+  },
+  {
+    theme: 'btn-back-purple',
+    name: 'Task Management App – Frontend',
+    description:
+      'Built a responsive and accessible user interface using Next.js and Tailwind CSS, enabling users to manage their daily tasks effectively. The frontend includes task forms, real-time validation, and seamless integration with a RESTful backend.',
+    link: 'https://pegawai-fe.vercel.app/',
+  },
+  {
+    theme: 'btn-back-orange',
+    name: 'Task Management App – Backend',
+    description:
+      'Developed and maintained backend services using Laravel to support task management features, including API endpoints for task CRUD operations, authentication, and data validation.',
+    link: 'https://github.com/ray34-cyber/pegawai-be',
+  },
 ];
