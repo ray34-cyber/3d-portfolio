@@ -145,6 +145,7 @@ export const socialLinks = [
 
 export const projects = [
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/831/831276.png',
     theme: 'btn-back-silver',
     name: 'Apple 3D Website',
     description:
@@ -152,6 +153,7 @@ export const projects = [
     link: 'https://apple-website-pi-livid.vercel.app/',
   },
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1077/1077035.png',
     theme: 'btn-back-green',
     name: 'E-Commerce Website',
     description:
@@ -159,6 +161,7 @@ export const projects = [
     link: 'https://github.com/ray34-cyber/e-commerce',
   },
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1534/1534068.png',
     theme: 'btn-back-blue',
     name: 'Investment Platform – Frontend',
     description:
@@ -166,6 +169,7 @@ export const projects = [
     link: 'https://github.com/ray34-cyber/invest_ui',
   },
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/226/226777.png',
     theme: 'btn-back-red',
     name: 'Investment Platform – API',
     description:
@@ -173,6 +177,7 @@ export const projects = [
     link: 'https://github.com/ray34-cyber/invest_api',
   },
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/847/847969.png',
     theme: 'btn-back-purple',
     name: 'Task Management App – Frontend',
     description:
@@ -180,6 +185,7 @@ export const projects = [
     link: 'https://pegawai-fe.vercel.app/',
   },
   {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/3064/3064197.png',
     theme: 'btn-back-orange',
     name: 'Task Management App – Backend',
     description:
@@ -187,3 +193,4 @@ export const projects = [
     link: 'https://github.com/ray34-cyber/pegawai-be',
   },
 ];
+
