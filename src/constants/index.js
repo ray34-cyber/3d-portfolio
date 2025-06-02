@@ -145,14 +145,14 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/733/733553.png', // Apple “A” logo (can be styled to slate via CSS)
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/831/831329.png', // Apple “A” logo (can be styled to slate via CSS)
     name: 'Apple 3D Website',
     description:
       'A modern 3D product showcase website inspired by Apple, built using React Three Fiber and Tailwind CSS. Includes interactive 3D product views, responsive layout, and smooth animations.',
     link: 'https://apple-website-pi-livid.vercel.app/',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/190/190411.png', // Money icon for finance
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/15708/15708470.png', // Money icon for finance
     name: 'Investment Platform – Frontend',
     description:
       'Led development of a responsive investment dashboard with Nuxt.js, enabling users to track portfolios, execute transactions, and view real-time market data.',
@@ -166,7 +166,7 @@ export const projects = [
     link: 'https://github.com/ray34-cyber/invest_api',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/2983/2983782.png', // Checklist icon for task management
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/7792/7792148.png', // Checklist icon for task management
     name: 'Task Management App – Frontend',
     description:
       'Developed a responsive task management interface using Next.js and Tailwind CSS, featuring task creation, editing, and status tracking with real-time validation.',
