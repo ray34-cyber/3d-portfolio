@@ -145,52 +145,47 @@ export const socialLinks = [
 
 export const projects = [
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/831/831276.png',
-    theme: 'btn-back-silver',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1082/1082607.png', // minimalis cube 3D, bisa di-style jadi slate pakai CSS
     name: 'Apple 3D Website',
     description:
       'A modern 3D product showcase website inspired by Apple, built using React Three Fiber and TailwindCSS. Includes interactive 3D product views, responsive layout, and smooth animations.',
     link: 'https://apple-website-pi-livid.vercel.app/',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1077/1077035.png',
-    theme: 'btn-back-green',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/107/107831.png', // shopping cart, style warna di CSS ke slate
     name: 'E-Commerce Website',
     description:
       'A full-featured e-commerce platform built with modern web technologies, supporting product listing, cart, and checkout functionalities.',
     link: 'https://github.com/ray34-cyber/e-commerce',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/1534/1534068.png',
-    theme: 'btn-back-blue',
-    name: 'Investment Platform – Frontend',
-    description:
-      'Led the development of a responsive investment dashboard using Nuxt.js, enabling users to monitor portfolios, execute transactions, and access real-time market data.',
-    link: 'https://github.com/ray34-cyber/invest_ui',
-  },
-  {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/226/226777.png',
-    theme: 'btn-back-red',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/226/226777.png', // Laravel official logo, bisa di-grey scale
     name: 'Investment Platform – API',
     description:
       'Built and maintained secure RESTful APIs using Laravel to handle user authentication, transaction processing, and integration with external financial data providers.',
     link: 'https://github.com/ray34-cyber/invest_api',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/847/847969.png',
-    theme: 'btn-back-purple',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/2921/2921222.png', // chart/dashboard icon, CSS style ke slate
+    name: 'Investment Platform – Frontend',
+    description:
+      'Led the development of a responsive investment dashboard using Nuxt.js, enabling users to monitor portfolios, execute transactions, and access real-time market data.',
+    link: 'https://github.com/ray34-cyber/invest_ui',
+  },
+  {
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/2983/2983782.png', // checklist/task icon, style warna slate
     name: 'Task Management App – Frontend',
     description:
       'Built a responsive and accessible user interface using Next.js and Tailwind CSS, enabling users to manage their daily tasks effectively. The frontend includes task forms, real-time validation, and seamless integration with a RESTful backend.',
     link: 'https://pegawai-fe.vercel.app/',
   },
   {
-    iconUrl: 'https://cdn-icons-png.flaticon.com/512/3064/3064197.png',
-    theme: 'btn-back-orange',
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/992/992700.png', // server/backend icon, style ke slate
     name: 'Task Management App – Backend',
     description:
       'Developed and maintained backend services using Laravel to support task management features, including API endpoints for task CRUD operations, authentication, and data validation.',
     link: 'https://github.com/ray34-cyber/pegawai-be',
   },
 ];
+
 
